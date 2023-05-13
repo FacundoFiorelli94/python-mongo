@@ -1,0 +1,4 @@
+Project Dependencies y environment:
+
+- pip install fastapi, uvicorn, pymongo and pymongo[srv]
+- env python
